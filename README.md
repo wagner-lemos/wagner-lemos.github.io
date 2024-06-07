@@ -8,7 +8,7 @@ class About extends Me
     {
         return [
             'name'     => 'Wagner Lemos',
-            'position' => 'Full Stack developer',
+            'position' => 'FullStack developer',
             'location' => 'Florianópolis, Brazil 🇧🇷',
             'email'    => 'wagnerlemosce@gmail.com',
             'website'  => 'https://wagner-lemos.github.io'
